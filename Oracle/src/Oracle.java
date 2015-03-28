@@ -7,7 +7,7 @@ import java.sql.*;
  * jdbc连接orcale数据库
  * @author Administrator
  * yangliesheng---add--update
- * 51168 add
+ * 51168 add update
  */
 public class Oracle {
 
