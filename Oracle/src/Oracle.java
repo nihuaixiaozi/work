@@ -7,8 +7,7 @@ import java.sql.*;
  * jdbc连接orcale数据库
  * @author Administrator
  * yangliesheng---add--update
- * 51168  rttiutu
- */
+51168 123456 123451168  rttiutu */
 public class Oracle {
 
 	private static Logger logger = Logger.getLogger(Oracle.class.getName());
