@@ -1,0 +1,95 @@
+java.lang.ClassNotFoundException: jdbc.odbc.classes12
+java.sql.SQLException: [Microsoft][ODBC 驱动程序管理器] 未发现数据源名称并且未指定默认驱动程序
+java.lang.ClassNotFoundException: sun.jdbc.odbc.classes12
+java.sql.SQLException: [Microsoft][ODBC 驱动程序管理器] 未发现数据源名称并且未指定默认驱动程序
+java.lang.ClassNotFoundException: sun.jdbc.odbc.classes12
+java.sql.SQLException: [Microsoft][ODBC 驱动程序管理器] 未发现数据源名称并且未指定默认驱动程序
+java.lang.ClassNotFoundException: sun.jdbc.odbc.classes12
+java.sql.SQLException: [Microsoft][ODBC 驱动程序管理器] 未发现数据源名称并且未指定默认驱动程序
+java.lang.ClassNotFoundException: sun.jdbc.odbc.classes12
+java.lang.ClassNotFoundException: sun.jdbc.odbc.classes12
+java.sql.SQLException: [Microsoft][ODBC 驱动程序管理器] 未发现数据源名称并且未指定默认驱动程序
+java.sql.SQLException: [Microsoft][ODBC 驱动程序管理器] 未发现数据源名称并且未指定默认驱动程序
+java.sql.SQLException: [Microsoft][ODBC 驱动程序管理器] 未发现数据源名称并且未指定默认驱动程序
+java.sql.SQLException: [Microsoft][ODBC 驱动程序管理器] 未发现数据源名称并且未指定默认驱动程序
+java.sql.SQLException: [Microsoft][ODBC 驱动程序管理器] 未发现数据源名称并且未指定默认驱动程序
+java.sql.SQLException: [Microsoft][ODBC 驱动程序管理器] 未发现数据源名称并且未指定默认驱动程序
+java.sql.SQLException: [Microsoft][ODBC 驱动程序管理器] 未发现数据源名称并且未指定默认驱动程序
+java.sql.SQLException: [Microsoft][ODBC 驱动程序管理器] 未发现数据源名称并且未指定默认驱动程序
+java.sql.SQLException: [Microsoft][ODBC 驱动程序管理器] 未发现数据源名称并且未指定默认驱动程序
+java.lang.ClassNotFoundException: com.microsoft.sqlserver.jdbc.SQLServerDriver
+java.sql.SQLException: No suitable driver found for jdbc:sqlserver://lacalhost;DatabaseName=JBITDB
+java.lang.ClassNotFoundException: com.microsoft.sqlserver.jdbc.SQLServerDriver
+java.sql.SQLException: No suitable driver found for jdbc:sqlserver://lacalhost:1433;DatabaseName=JBITDB
+java.lang.ClassNotFoundException: com.microsoft.sqlserver.jdbc.SQLServerDriver
+java.sql.SQLException: No suitable driver found for jdbc:sqlserver://lacalhost:1433;DatabaseName=JBITDB
+java.sql.SQLException: [Microsoft][ODBC 驱动程序管理器] 未发现数据源名称并且未指定默认驱动程序
+java.sql.SQLException: [Oracle][ODBC][Ora]ORA-01017: invalid username/password; logon denied
+java.lang.ClassNotFoundException: com.microsoft.sqlserver.jdbc.SQLServerDriver
+java.sql.SQLException: No suitable driver found for jdbc:sqlserver://lacalhost:1433;DatabaseName=JBITDB
+java.lang.ClassNotFoundException: com.microsoft.sqlserver.jdbc.SQLServerDriver
+java.sql.SQLException: No suitable driver found for jdbc:sqlserver://lacalhost:6400;DatabaseName=JBITDB
+java.lang.ClassNotFoundException: com.microsoft.sqlserver.jdbc.SQLServerDriver
+java.sql.SQLException: No suitable driver found for jdbc:sqlserver://lacalhost:1433;DatabaseName=lacalhost
+java.lang.ClassNotFoundException: com.microsoft.sqlserver.jdbc.SQLServerDriver
+java.sql.SQLException: No suitable driver found for jdbc:oracle://lacalhost:1433;DatabaseName=JBITDB
+java.lang.ClassNotFoundException: com.microsoft.sqlserver.jdbc.SQLServerDriver
+java.sql.SQLException: No suitable driver found for jdbc:oracle://lacalhost:1433;DatabaseName=lacalhost
+java.lang.ClassNotFoundException: com.microsoft.sqlserver.jdbc.SQLServerDriver
+java.sql.SQLException: No suitable driver found for jdbc:lacalhost://lacalhost:1433;DatabaseName=JBITDB
+java.sql.SQLException: No suitable driver found for jdbc:lacalhost://lacalhost:1433;DatabaseName=JBITDB
+java.sql.SQLException: No suitable driver found for jdbc:lacalhost://lacalhost:1433;DatabaseName=lacalhost
+java.sql.SQLException: No suitable driver found for jdbc:orcale://lacalhost:1433;DatabaseName=JBITDB
+java.sql.SQLException: [Microsoft][ODBC 驱动程序管理器] 未发现数据源名称并且未指定默认驱动程序
+java.sql.SQLException: [Microsoft][ODBC 驱动程序管理器] 未发现数据源名称并且未指定默认驱动程序
+com.microsoft.sqlserver.jdbc.SQLServerException: 到主机  的 TCP/IP 连接失败。 java.net.ConnectException: Connection refused: connect
+com.microsoft.sqlserver.jdbc.SQLServerException: 到主机  的 TCP/IP 连接失败。 java.net.ConnectException: Connection refused: connect
+com.microsoft.sqlserver.jdbc.SQLServerException: 到主机  的 TCP/IP 连接失败。 java.net.ConnectException: Connection refused: connect
+com.microsoft.sqlserver.jdbc.SQLServerException: 到主机  的 TCP/IP 连接失败。 java.net.ConnectException: Connection refused: connect
+com.microsoft.sqlserver.jdbc.SQLServerException: 到主机  的 TCP/IP 连接失败。 java.net.ConnectException: Connection refused: connect
+com.microsoft.sqlserver.jdbc.SQLServerException: 到主机  的 TCP/IP 连接失败。 java.net.ConnectException: Connection refused: connect
+com.microsoft.sqlserver.jdbc.SQLServerException: 到主机  的 TCP/IP 连接失败。 java.net.ConnectException: Connection refused: connect
+com.microsoft.sqlserver.jdbc.SQLServerException: 到主机  的 TCP/IP 连接失败。 java.net.ConnectException: Connection refused: connect
+com.microsoft.sqlserver.jdbc.SQLServerException: 到主机  的 TCP/IP 连接失败。 java.net.ConnectException: Connection refused: connect
+com.microsoft.sqlserver.jdbc.SQLServerException: 到主机  的 TCP/IP 连接失败。 java.net.ConnectException: Connection refused: connect
+com.microsoft.sqlserver.jdbc.SQLServerException: 到主机  的 TCP/IP 连接失败。 java.net.ConnectException: Connection refused: connect
+com.microsoft.sqlserver.jdbc.SQLServerException: 到主机  的 TCP/IP 连接失败。 java.net.ConnectException: Connection refused: connect
+com.microsoft.sqlserver.jdbc.SQLServerException: 到主机  的 TCP/IP 连接失败。 java.net.ConnectException: Connection refused: connect
+com.microsoft.sqlserver.jdbc.SQLServerException: 到主机  的 TCP/IP 连接失败。 java.net.ConnectException: Connection refused: connect
+com.microsoft.sqlserver.jdbc.SQLServerException: 到主机  的 TCP/IP 连接失败。 java.net.ConnectException: Connection refused: connect
+com.microsoft.sqlserver.jdbc.SQLServerException: 到主机  的 TCP/IP 连接失败。 java.net.ConnectException: Connection refused: connect
+com.microsoft.sqlserver.jdbc.SQLServerException: 到主机  的 TCP/IP 连接失败。 java.net.ConnectException: Connection refused: connect
+com.microsoft.sqlserver.jdbc.SQLServerException: 到主机  的 TCP/IP 连接失败。 java.net.ConnectException: Connection refused: connect
+com.microsoft.sqlserver.jdbc.SQLServerException: 到主机  的 TCP/IP 连接失败。 java.net.ConnectException: Connection refused: connect
+com.microsoft.sqlserver.jdbc.SQLServerException: 到主机  的 TCP/IP 连接失败。 java.net.ConnectException: Connection refused: connect
+com.microsoft.sqlserver.jdbc.SQLServerException: 不支持此服务器版本。目标服务器必须是 SQL Server 2000 或更高版本。
+com.microsoft.sqlserver.jdbc.SQLServerException: 到主机  的 TCP/IP 连接失败。 java.net.ConnectException: Connection refused: connect
+com.microsoft.sqlserver.jdbc.SQLServerException: 不支持此服务器版本。目标服务器必须是 SQL Server 2000 或更高版本。
+com.microsoft.sqlserver.jdbc.SQLServerException: 不支持此服务器版本。目标服务器必须是 SQL Server 2000 或更高版本。
+com.microsoft.sqlserver.jdbc.SQLServerException: 不支持此服务器版本。目标服务器必须是 SQL Server 2000 或更高版本。
+com.microsoft.sqlserver.jdbc.SQLServerException: 不支持此服务器版本。目标服务器必须是 SQL Server 2000 或更高版本。
+com.microsoft.sqlserver.jdbc.SQLServerException: 不支持此服务器版本。目标服务器必须是 SQL Server 2000 或更高版本。
+com.microsoft.sqlserver.jdbc.SQLServerException: 不支持此服务器版本。目标服务器必须是 SQL Server 2000 或更高版本。
+com.microsoft.sqlserver.jdbc.SQLServerException: 不支持此服务器版本。目标服务器必须是 SQL Server 2000 或更高版本。
+java.sql.SQLException: [Microsoft][ODBC 驱动程序管理器] 未发现数据源名称并且未指定默认驱动程序
+com.microsoft.sqlserver.jdbc.SQLServerException: 不支持此服务器版本。目标服务器必须是 SQL Server 2000 或更高版本。
+com.microsoft.sqlserver.jdbc.SQLServerException: 不支持此服务器版本。目标服务器必须是 SQL Server 2000 或更高版本。
+com.microsoft.sqlserver.jdbc.SQLServerException: 不支持此服务器版本。目标服务器必须是 SQL Server 2000 或更高版本。
+com.microsoft.sqlserver.jdbc.SQLServerException: 不支持此服务器版本。目标服务器必须是 SQL Server 2000 或更高版本。
+com.microsoft.sqlserver.jdbc.SQLServerException: 不支持此服务器版本。目标服务器必须是 SQL Server 2000 或更高版本。
+com.microsoft.sqlserver.jdbc.SQLServerException: 不支持此服务器版本。目标服务器必须是 SQL Server 2000 或更高版本。
+java.sql.SQLException: Io 异常: The Network Adapter could not establish the connection
+java.sql.SQLException: Io 异常: The Network Adapter could not establish the connection
+java.sql.SQLException: Io 异常: Connection refused(DESCRIPTION=(TMP=)(VSNNUM=186646784)(ERR=12505)(ERROR_STACK=(ERROR=(CODE=12505)(EMFI=4))))
+java.sql.SQLException: Io 异常: Connection refused(DESCRIPTION=(TMP=)(VSNNUM=186646784)(ERR=12505)(ERROR_STACK=(ERROR=(CODE=12505)(EMFI=4))))
+com.microsoft.sqlserver.jdbc.SQLServerException: 用户 'jbit' 登录失败。
+java.sql.SQLException: [Oracle][ODBC][Ora]ORA-12541: TNS: 无监听程序
+java.sql.SQLException: Io 异常: The Network Adapter could not establish the connection
+com.microsoft.sqlserver.jdbc.SQLServerException: The TCP/IP connection to the host localhost, port 1433 has failed. Error: Connection refused: connect. Please verify the connection properties and check that a SQL Server instance is running on the host and accepting TCP/IP connections at the port, and that no firewall is blocking TCP connections to the port.
+java.sql.SQLException: [Microsoft][ODBC SQL Server Driver][Shared Memory]SQL Server 不存在或访问被拒绝
+java.sql.SQLException: [Oracle][ODBC][Ora]ORA-01017: invalid username/password; logon denied
+java.sql.SQLException: [Microsoft][ODBC SQL Server Driver][Shared Memory]SQL Server 不存在或访问被拒绝
+java.sql.SQLException: 违反协议
+java.sql.SQLException: 违反协议
+java.sql.SQLException: 违反协议
+java.sql.SQLException: 违反协议
