@@ -6,7 +6,7 @@ import java.sql.*;
 /**
  * jdbc连接orcale数据库
  * @author Administrator
- * yangliesheng
+ * yangliesheng---add
  */
 public class Oracle {
 
